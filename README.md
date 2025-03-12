@@ -1,12 +1,61 @@
-# 💫 About Me:
-Raychristian Santos is a skilled and passionate web developer with a strong foundation in computer science. With a Bachelor's degree from Tarlac State University, he possesses a solid understanding of programming languages, development methodologies, and database management.<br><br>His expertise lies in:<br><br>Web Development: Proficient in HTML, CSS, and JavaScript, with experience in creating dynamic and responsive web applications.<br>Mobile Development: Skilled in Android Studio, Java, and Kotlin, capable of developing robust mobile applications.<br>Machine Learning: Well-versed in TensorFlow, PyTorch, and OpenCV, with a focus on computer vision applications.<br>Database Management: Experienced in using MS SQL for data storage and retrieval.<br>Development Methodologies: Proficient in both Agile and Waterfall methodologies to deliver efficient and high-quality software.
+# Hi there! I'm Raychristian Santos 👋
 
+## 🚀 About Me
+I'm a passionate Computer Science graduate from Tarlac State University, specializing in web development, mobile application development, and machine learning. With a strong foundation in cutting-edge technologies, I'm dedicated to creating innovative and efficient software solutions.
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raysantos22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raysantos22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raysantos22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frameworks & Technologies
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 1. Mobile-Based Skin Disease Detection
+- 🏅 Winner of TSU 2024 Best Thesis Award in BSCS
+- 🔬 Developed using Kotlin, TensorFlow, PyTorch, and OpenCV
+- 📱 Achieved 95.20% accuracy in detecting 12 common skin conditions
+- 🔗 [View Project](https://github.com/Raysantos22/Skin-DiseaseDetection)
+
+### 2. Real-Time Student Face-Based Attendance System
+- 🧠 Implemented facial recognition using Facenet, SVM, and Haar cascades
+- 🔐 Includes anti-spoofing and hand-raising detection
+- 🐍 Developed with Python
+- 🔗 [View Project](https://github.com/Raysantos22/Face-Attendance)
+
+### 3. FoxNav - 2D Navigation System
+- 🗺️ Campus navigation app using Mapbox API and A* Algorithm
+- 📍 Real-time outdoor and indoor navigation for TSU students
+- 📱 Built with Kotlin
+- 🔗 [View Project](https://github.com/Raysantos22/FoxNav)
+
+## 🌱 Currently Learning
+- Advanced Machine Learning Techniques
+- Cloud Computing
+- Advanced Mobile Development Strategies
+
+## 📊 GitHub Stats
+![Raychristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raysantos22&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raychristian-santos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qqqraysantos@gmail.com)
+
+---
+
+⭐️ From [Raychristian Santos](https://github.com/Raysantos22)
